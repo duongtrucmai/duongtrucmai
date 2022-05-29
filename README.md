@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Dương Trúc Mai!! Read Me Read Me... <3
 
 <!--
 **duongtrucmai/duongtrucmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
