@@ -1,6 +1,5 @@
-### Hi there 👋 My name is Dương Trúc Mai!! Read Me Read Me... <3
 
-<!--
+
 **duongtrucmai/duongtrucmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me ==> Mail: trucmaiduong27@gmail.com  & Facebook: https://www.facebook.com/profile.php?id=100076011753442
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
